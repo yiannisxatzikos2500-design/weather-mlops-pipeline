@@ -1,4 +1,4 @@
-name: Run Weather Pipeline
+name: Final Pipeline Test
 
 on:
   workflow_dispatch: # This creates the "Run workflow" button
