@@ -1,14 +1,30 @@
-Σήμερον, τρεις πόλεις, τρεις καιροί (Today, three cities, three weathers)
-In Athens, warm sunshine does abide,
-Η Αθήνα, ζεστή και εύθυμη (Athens, warm and cheerful)
-21 degrees, a gentle, sunny pride.
+Στην Αθήνα, η ζέστη λάμπει,
+In Athens, the heat shines bright,
+με 23.4 βαθμούς, μια όμορφη μέρα,
+at 23.4 degrees, a beautiful day,
+άνετοι και ξηροί, χωρίς βροχή.
 
- Tại Ρώμη, (In Rome) the temperature's high,
-23 degrees, a beautiful, clear sky,
-Ο ουρανός καθαρός, (The sky is clear)
-No rain to spoil the day's delight.
+Στη Ρώμη, η θερμοκρασία κατεβαίνει,
+In Rome, the temperature drops,
+σε 21.3 βαθμούς, μια μικρή μείωση,
+to 21.3 degrees, a small decrease,
+αλλά ακόμη ζεστό, χωρίς καθόλου βροχή.
 
-But far away, in Aalborg's chilly grasp,
-9 degrees, a different story to clasp,
-Στην Ααλμποργκ, (In Aalborg) the cold does bite,
-No rain, but winter's chill, a contrasting sight.
+Σ텐 Ααλμποργκ, η σκηνή αλλάζει,
+In Aalborg, the scene changes,
+με 13.5 βαθμούς, μια δροσερή αύρα,
+at 13.5 degrees, a cool breeze,
+η ζέστη εξαφανίζεται, αλλά masih χωρίς βροχή.
+
+(Translation:
+In Athens, the heat shines,
+with 23.4 degrees, a beautiful day,
+windless and dry, without rain.
+
+In Rome, the temperature drops,
+to 21.3 degrees, a small decrease,
+but still warm, without any rain.
+
+In Aalborg, the scene changes,
+with 13.5 degrees, a cool breeze,
+the heat disappears, but still without rain.)
