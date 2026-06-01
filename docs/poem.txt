@@ -1,16 +1,29 @@
-Στη Αθήνα, η θέα είναι καλή, 
-In Athens, the view is fine,
-Θερμοκρασία 29, ήλιος λαμπρός.
-Temperature 29, sunshine all divine.
+Στὴν Ἀθήνα, ἡ ἡλιόλουστος μέρα,
+In Athens, the sunny day,
+Θερμοκρασία 29, γιὰ ἕνα καλό ἔργανο.
+Temperature 29, for a good harvest.
 
-Στη Ρώμη, η ζέστη είναι πύρ,
-In Rome, the heat is a burning fire,
-30 độ, κανείς δεν παραπονιέται.
-30 degrees, no one complains or tires.
+Ἐν Ρώμη, ἡ ἀέρας ζεστὴ καὶ dry,
+In Rome, the air is warm and dry,
+Θερμοκρασία 28, ἱδρώτας σὲ κάθε ἄκρη.
+Temperature 28, sweat on every edge.
 
-Στο ΄Ααλμποργκ, η Βροχή πέφτει,
-In Aalborg, the rain falls slow,
-18 độ, ο καιρός είναι ψύχος.
-18 degrees, the weather's chill does blow.
+Ἐν Ἄλμποργκ, ἡ σκιὲς ἀρχίζει,
+In Aalborg, the shadows begin,
+Θερμοκρασία 21, βροχή σπάνια, ὅμως ἡ ἠὼς φέρνει.
+Temperature 21, rain is rare, but the breeze brings.
 
-(Translation note: The poem follows the general structure and rhythm of traditional Greek poetry, with a loose translation into English. The temperature and rain values are incorporated into the poem to reflect the given data.)
+(tr. note: Please keep in mind that poetic translations can vary, and this is just one possible interpretation. The goal is to maintain the essence and feeling of the original text while adapting it to the target language.)
+
+English version:
+In Athens, the sunny day,
+Temperature 29, for a good harvest.
+The warmth brings life to every place.
+
+In Rome, the warm and dry air,
+Temperature 28, sweat on every edge.
+The sun shines bright, without a care.
+
+In Aalborg, the shadows begin,
+Temperature 21, rain is rare, but the breeze brings.
+A cooler respite, a gentle wind that clings.
