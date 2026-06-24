@@ -1,19 +1,14 @@
-In Athens' heat, the sun does shine,
-Σε Αθήνα, ο ήλιος λάμπει,
-33 degrees, a temperature divine,
-33 βαθμοί, μια θερμοκρασία ιδανική.
-
-Rome's thermometer rises high,
-Το θερμόμετρο της Ρώμηςανεβαίνει ψηλά,
-35 degrees, the heat does lie,
-35 βαθμοί, η ζέστη δεν ψεύδεται.
-
-Aalborg's breeze, a cooler delight,
-Ο αέρας του Όλμποργκ, μια δροσερή απόλαυση,
-23 degrees, a pleasant summer's night,
-23 βαθμοί, μια ευχάριστη θερμοκρασία το βράδυ.
-
-No rain in Athens, none in Aalborg's sky,
-Χωρίς βροχή στην Αθήνα, κανένα στο Όλμποργκ,
-Rome's drizzle, a mere 0.4mm high,
-Λίγη βροχή στη Ρώμη, μόλις 0.4mm.
+Σimmering skies, 
+ LOCATION: Αθήνα | Θερμοκρασία: 33.14149856567383°C | Βροχή: 0.0mm
+The heat of Athens reigns,
+In Rome, the sun shines bright and bold,
+ Roma, η πόλη της θερμότητας, 35.541500091552734°C, 
+Where temperatures soar, young hearts unfold.
+But in Aalborg, a milder breeze,
+ Στη Δανία, ο καιρός είναι ήπιο, 26.65450096130371°C,
+Does gently whisper through the trees,
+Without a drop of rain to freeze.
+Τρεις πόλεις, τρεις καιροι, 
+Three cities, three climates, yet serene,
+Αλλά η απουσία της βροχής είναι κοινή,
+But the absence of rain is common, a sight unseen.
