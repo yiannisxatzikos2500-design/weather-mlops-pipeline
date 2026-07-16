@@ -1,17 +1,22 @@
-Here's a short bilingual poem comparing the weather in Athens, Rome, and Aalborg:
+Here's a short bilingual poem in English and Greek:
 
-Η Αθήνα ζεστάνει με θέρμη,
-Athens heats up with warmth,
-34 degrees, a sunny day.
-Η Ρώμη θερμότερη, δεν βρέχει,
-Rome is hotter, no rain,
-35 degrees, a scorching sway.
-Αλλά στην Άαλμποργκ, είναι κάπως χλιαρό,
-But in Aalborg, it's somewhat mild,
-30 degrees, a gentle breeze to share.
-Και σε τρεις πόλεις, ο ήλιος λάμπει,
-And in all three cities, the sun shines bright,
-ไมς βροχή, μόνο ζέστη και φως,
-no rain, just heat and light.
+Σέ триεις πόλεις, τρεις εικόνες,
+In three cities, three pictures,
+Αθήνα, Ρώμη, και Άαλμποργκ στε खडουν,
+Athens, Rome, and Aalborg stand,
+Με καύσωνα και ήλιο να λάμπουν.
+With heat and sun shining bright.
 
-Note: Please keep in mind that the temperature values in the poem are rounded for poetic purposes. The actual values provided are: Athens (34.59149932861328°C), Rome (35.34150314331055°C), and Aalborg (30.254499435424805°C).
+Η Αθήνα και η Ρώμη, ζεστές αδελφές,
+Athens and Rome, warm sisters,
+Με 35 βαθμούς να διακρίνουν,
+With 35 degrees to distinguish,
+Τις από τον Άαλμποργκ, που ψύχραιμη μένει.
+From Aalborg, which stays cool and serene.
+
+Όμως όλες τρεις, без βροχής μένουν,
+But all three, remain without rain,
+Και ο ήλιος να λάμπει, без σκέψης,
+And the sun shines, without a care,
+Σέ třiεις πόλεις, τρεις εικόνες, μια ομορφιά.
+In three cities, three pictures, one beauty.
