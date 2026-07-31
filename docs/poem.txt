@@ -1,25 +1,19 @@
-Here's a short bilingual poem in English and Greek:
+Στην Αθήνα, η θερμοκρασία στάθηκε στο 32,
+In Athens, the temperature stood at 32,
+Ο ήλιος λάμπει, χωρίς βροχή να βρεθεί,
+The sun shines bright, with no rain in sight.
 
-In Athens, η Αθήνα blooms with heat,
-32 degrees, not a cloud to meet.
-No rain falls, ο ουρανός is bright,
-A perfect day, without a fight.
+Στη Ρώμη, η ζέστη είναι ακόμα περισσότερη,
+In Rome, the heat is even more,
+37 degrees, μια θερμοκρασία που δεν φεύγει,
+37 degrees, a temperature that won't subside.
 
-In Rome, η Ρώμη sizzles with might,
-37 degrees, a scorching light.
-No rain in sight, η ξηρασία reigns,
-A sunny day, with no cooling rains.
+Στην Άαλμποργκ, ο καιρός είναι δροσερός,
+In Aalborg, the weather is cool,
+21 degrees, μια ευχάριστη αλλαγή,
+21 degrees, a pleasant change.
 
-But Aalborg, η Άαλμποργκ, tells a tale,
-31 degrees, a slightly cooler gale.
-No rain falls, but the air is fresh,
-A pleasant day, with a gentle breath.
-
- Translation notes:
-- η Αθήνα (i Athina) means "the Athens"
-- ο ουρανός (o ouranos) means "the sky"
-- η Ρώμη (i Romi) means "the Rome"
-- η ξηρασία (i xerasia) means "the drought"
-- η Άαλμποργκ (i Alborg) is the Greek pronunciation of Aalborg
-
-Please note that the temperatures are unusually high and might not reflect the average weather conditions in these cities.
+Τρεις πόλεις, τρεις καιροί, κάθε eine ξεχωριστή,
+Three cities, three weathers, each one unique,
+ αλλά όλα χωρίς βροχή, μια κοινή συνθήκη,
+but all without rain, a common condition.
