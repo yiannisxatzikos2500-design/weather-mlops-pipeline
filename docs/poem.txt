@@ -1,18 +1,26 @@
-Here's a short bilingual poem in English and Greek:
+Here's a short bilingual poem:
 
-In Athens, η Αθήνα shines so bright,
-31 degrees, a warm summer's light.
-No rain falls, ουρανός без cloud,
-A perfect day, in this ancient crowd.
+Αθήνα, Ρώμη, και Άλμποργκ, πόλεις τρεις,
+Athens, Rome, and Aalborg, three cities fair,
+Μαζι συγκρίνονται, το καιρό να δουν,
+Compared together, to see the weather share.
 
-In Rome, η Ρώμη sizzles with heat,
-36 degrees, a temperature to beat.
-No drops fall, άσπρος ο ουρανός above,
-A sunny day, filled with endless love.
+Η Αθήνα καίει, 32 度 Celsius το θερμόμετρο,
+Athens burns, 32 degrees Celsius the thermometer shows,
+Η Ρώμη καίει, 34 度 Celsius, χωρίς βροχή,
+Rome burns, 34 degrees Celsius, without a drop of rain's woes.
 
-But in Aalborg, Άαλμποργκ's gentle breeze,
-21 degrees, a cool summer's ease.
-No rain falls, ουρανός γαλάζιος so fair,
-A refreshing day, beyond compare.
+Άλμποργκ, δροσιά, 20 度 Celsius, με λίγη βροχή,
+Aalborg, cool, 20 degrees Celsius, with a little rain's sigh,
+Διαφορά μεγάλης, στις τρεις πόλεις, το καιρό να δουν,
+A big difference, in the three cities, to see the weather's tune.
 
-(Note: Please keep in mind that the temperatures provided are likely simulated or hypothetical, as they have many decimal places and are not typical of real-world weather reports.)
+(Note: The temperatures are rounded to the nearest whole number for simplicity)
+
+Translation:
+Athens, Rome, and Aalborg, three cities,
+Compared together, to see the weather.
+Athens burns, the thermometer shows,
+Rome burns, without a drop of rain.
+Aalborg, cool, with a little rain,
+A big difference, in the three cities, to see the weather.
